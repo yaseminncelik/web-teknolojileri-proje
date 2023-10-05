@@ -1,1 +1,1 @@
-# web-teknolojileri-proje
+Web Teknolojileri dersi proje ödevi.
